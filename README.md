@@ -1,5 +1,7 @@
 # Hi, I'm Fraixer01! 👋
 
+![Image](https://github.com/user-attachments/assets/b221fd4d-0b64-4cc2-a12d-36da7ab66762)
+
 ## Front End Web Developer | React Enthusiast | Pro Gamer
 
 I'm a passionate Front End Web Development student with strong skills in React, HTML, CSS, Responsive Design, and Bootstrap. I love building dynamic, user-friendly websites and web apps.
