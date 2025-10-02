@@ -1,3 +1,5 @@
+![Uploading Black and Yellow Dark Gamer Survival YouTube Thumbnail (2).gif…]()
+
 # Hi, I'm Fraixer01! 👋
 
 ## Front End Web Developer | React Enthusiast | Pro Gamer
