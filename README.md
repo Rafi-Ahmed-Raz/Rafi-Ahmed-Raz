@@ -1,7 +1,5 @@
 # Hi, I'm Fraixer01! 👋
 
-![Uploading Black and Yellow Dark Gamer Survival YouTube Thumbnail (2).gif…]()
-
 ## Front End Web Developer | React Enthusiast | Pro Gamer
 
 I'm a passionate Front End Web Development student with strong skills in React, HTML, CSS, Responsive Design, and Bootstrap. I love building dynamic, user-friendly websites and web apps.
