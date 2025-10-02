@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Fraixer01! 👋
 
-<!--
-**Rafi-Ahmed-Raz/Rafi-Ahmed-Raz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front End Web Developer | React Enthusiast | Pro Gamer
 
-Here are some ideas to get you started:
+I'm a passionate Front End Web Development student with strong skills in React, HTML, CSS, Responsive Design, and Bootstrap. I love building dynamic, user-friendly websites and web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, I'm a pro gamer playing CS2, Valorant, PUBG, and GTA V.
+
+---
+
+### 🚀 Skills
+- HTML5, CSS3, Responsive Design
+- React.js
+- Bootstrap
+- Git & GitHub
+
+---
+
+### 🎮 Gaming Profile
+- CS2, Valorant, PUBG, GTA V
+- Steam: [Fraixer01](https://steamcommunity.com/id/Fraixer01_2/)
+
+---
+
+### 📫 Connect with Me
+- Discord: Fraixer01
+- Join my Discord server: [Discord Server](https://discord.gg/wCh3EtNAhP)
+- Gmail: rafiahmedraz220@gmail.com
+- Instagram: [@fraixer01](https://www.instagram.com/fraixer01/)
+- Facebook: [rafiahmed220](https://www.facebook.com/rafiahmed220)
+- YouTube: [Fraixer01](https://www.youtube.com/@Fraixer01)
+
+---
+
+### ⚡ Fun Fact
+Balancing coding with competitive gaming keeps me sharp and motivated!
+
+---
+
+Feel free to explore my repositories and projects as I continue to grow in web development and beyond.
