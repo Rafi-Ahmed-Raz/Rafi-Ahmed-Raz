@@ -4,9 +4,7 @@
 
 ![Image](https://github.com/user-attachments/assets/b221fd4d-0b64-4cc2-a12d-36da7ab66762)
 
-![Image](https://github.com/user-attachments/assets/41e4b955-044f-4258-9550-08d33e6f6c03) ![Image](https://github.com/user-attachments/assets/edc52bd9-5041-40bd-b52d-30e1056e5706)
-
-![Image](https://github.com/user-attachments/assets/9542ef80-fdba-4c9e-99d5-9e270a04d404) ![Image](https://github.com/user-attachments/assets/227b8380-1356-4581-8449-f60260f8a255)
+![Image](https://github.com/user-attachments/assets/1343a01e-d730-404e-b79e-8ff3c258d6f7)
 
 # Hi, I'm Rafi Ahmed Raz! 👋
 ## Front End Web Developer | React Enthusiast | Gamer
@@ -46,8 +44,8 @@ Some React features I specialize in:
 ***
 
 ### 📫 Connect with Me
-- Discord: Fraixer01  
-  ![Image](https://github.com/user-attachments/assets/1dfa7367-2825-4dca-9a18-4b4cb3237696)
+![Image](https://github.com/user-attachments/assets/1dfa7367-2825-4dca-9a18-4b4cb3237696)
+- Discord: Fraixer01
 - [Discord Server](https://discord.gg/wCh3EtNAhP)
 - Gmail: [rafiahmedraz220@gmail.com](mailto:rafiahmedraz220@gmail.com)
 - Instagram: [@fraixer01](https://www.instagram.com/fraixer01/)
