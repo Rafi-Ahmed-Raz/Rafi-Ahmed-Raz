@@ -21,6 +21,7 @@ When I'm not coding, I'm a pro gamer playing CS2, Valorant, PUBG, and GTA V.
 - HTML5, CSS3, Responsive Design
 - React.js  
 - Bootstrap
+- Java Script
 - Git & GitHub
 
 ![Image](https://github.com/user-attachments/assets/b3a5f101-a044-4118-a4f4-a4d8ae26b5b8)
