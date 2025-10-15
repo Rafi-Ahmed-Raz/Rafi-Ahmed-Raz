@@ -45,8 +45,9 @@ Some React features I specialize in:
 
 ### 📫 Connect with Me
 ![Image](https://github.com/user-attachments/assets/1dfa7367-2825-4dca-9a18-4b4cb3237696)
+- Linkedin: [Rafi Ahmed](https://www.linkedin.com/in/rafiahmedraz220/)
 - Discord: Fraixer01
-- [Discord Server](https://discord.gg/wCh3EtNAhP)
+- Discord link: [The Tron Squad](https://discord.gg/wCh3EtNAhP)
 - Gmail: [rafiahmedraz220@gmail.com](mailto:rafiahmedraz220@gmail.com)
 - Instagram: [@fraixer01](https://www.instagram.com/fraixer01/)
 - Facebook: [rafiahmed220](https://www.facebook.com/rafiahmed220)
